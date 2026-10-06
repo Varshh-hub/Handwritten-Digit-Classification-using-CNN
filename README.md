@@ -175,6 +175,6 @@ Through this project, I gained practical experience with:
 
 **Varsha A**
 
-B.Sc. Artificial Intelligence & Machine Learning
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
 
 GitHub: [Varshh-hub](https://github.com/Varshh-hub)
